@@ -1,0 +1,9 @@
+crewai
+crewai_tools
+pandas
+numpy
+streamlit
+jsons
+autogen-agentchat~=0.2
+pyautogen[ollama]
+pdf2image
