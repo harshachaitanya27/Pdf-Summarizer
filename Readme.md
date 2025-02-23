@@ -9,6 +9,11 @@ The requirements for this code to run are:
 <li>streamlit</li>
 </ul>
 
+You can also do:
+```
+pip install -r requirements.txt
+```
+
 To run:
 ```
 streamlit run file_summarizer.py
